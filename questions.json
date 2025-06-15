@@ -1,7 +1,45 @@
 {
     "Air Law": [
-      { "question": "What is the minimum safe altitude over a congested area?", "options": ["500 feet", "1000 feet", "2000 feet", "2500 feet"], "answer": 1 },
-      { "question": "When must a pilot file a flight plan?", "options": ["Always", "For IFR flights", "Only international flights", "Never"], "answer": 1 }
+        {
+            "question": "What are the minimum requirements for flying in cloud in gliders?",
+            "options": [
+              "The occupants must wear a serviceable parachute and have been instructed in its use.",
+              "The pilot must have received instruction in the use of blind flying instruments.",
+              "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
+              "All the above."
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What are the restrictions imposed on gliders flying within a MATZ. (Military Air Traffic Zone)?",
+            "options": [
+                "No entry during the hours eight AM to five PM.",
+                "No entry while the MATZ is active.",
+                "None, so long as the ATZ is not penetrated.",
+                "None"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "You are approaching a strange airfield and receive red flashes from the ground, what should be your actions?",
+            "options": [
+                "Give way to other aircraft and continue circling.",
+                "Land immediately.",
+                "Do not land as the airfield is not available for landing.",
+                "Move clear of the landing area."
+            ],
+            "answer": 3
+        },
+        {
+            "question": "Under what circumstances is a weak link not required in the winch / auto tow cable?",
+            "options": [
+              "The launch is a hill top site where the conditions are likely to be rough and break the weak link on a regular basis.",
+              "The proven breaking strain of the launch cable is lower than that of the weak link strength required by the glider manufacturer.",
+              "The tow car is of low power.",
+              "The glider is a heavy two seater with a history of breaking weak links."
+            ],
+            "answer": 1
+        }          
     ],
     "Meteorology": [
       { "question": "What type of cloud is associated with thunderstorms?", "options": ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"], "answer": 2 },
