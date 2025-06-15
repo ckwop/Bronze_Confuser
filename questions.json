@@ -28,7 +28,7 @@
                 "Do not land as the airfield is not available for landing.",
                 "Move clear of the landing area."
             ],
-            "answer": 3
+            "answer": 2
         },
         {
             "question": "Under what circumstances is a weak link not required in the winch / auto tow cable?",
@@ -39,10 +39,56 @@
               "The glider is a heavy two seater with a history of breaking weak links."
             ],
             "answer": 1
-        }          
-    ],
-    "Meteorology": [
-      { "question": "What type of cloud is associated with thunderstorms?", "options": ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"], "answer": 2 },
-      { "question": "What does a METAR report?", "options": ["Forecast", "Current weather", "Cloud height only", "Runway conditions"], "answer": 1 }
+        },
+        {
+            "question": "What are your actions if you suspect any defect or damage to a glider?",
+            "options": [
+              "Report it to the duty pilot before the next flight.",
+              "Report it to the duty instructor before the next flight.",
+              "Note the defect or damage in the DI book before the next flight.",
+              "Ground the glider until an inspector can check for defects or damage."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What are the VMC rules when flying in class D airspace below 3000ft AMSL at 140 kts or less?",
+            "options": [
+              "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+              "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+              "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+              "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
+            ],
+            "answer": 3
+          },
+          {
+            "question": "When aerotowing, the tug rocks its wings laterally. What does this mean?",
+            "options": [
+              "Release, you're at 2000 ft.",
+              "Release immediately.",
+              "Your air brakes are open.",
+              "The tug can't release."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "When two aircraft are approaching head on, each shall alter its course in which direction?",
+            "options": [
+              "To the left.",
+              "Only the first to see the other need take avoiding action to the right.",
+              "Only one alters course to the right to save any confusion.",
+              "To the right."
+            ],
+            "answer": 3
+          },
+          {
+            "question": "When two aircraft are converging at approximately the same height, who has the right of way?",
+            "options": [
+              "The aircraft which has the other on its right has right of way.",
+              "The aircraft on the left.",
+              "Neither. Both must take avoiding action.",
+              "The aircraft which has the other on its right shall give way."
+            ],
+            "answer": 3
+          }       
     ]
 }
