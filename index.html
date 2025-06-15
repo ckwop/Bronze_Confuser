@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🥉 Bronze Confuser (Web Edition)</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: auto; }
+    .question { margin-bottom: 20px; }
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; }
+    .section-header { margin-top: 20px; font-weight: bold; }
+    #StartQuiz { margin-top: 10px; }
+  </style>
+</head>
+<body>
+
+  <h1>🥉 Bronze Confuser (Web Edition)</h1>
+
+  <div id="setup">
+    <label>
+      Number of questions per section:
+      <input type="number" id="numQuestions" value="10" min="1">
+    </label>
+
+    <div id="sectionSelector">
+      <p><strong>Select sections to include:</strong></p>
+    </div>
+
+    <button id="StartQuiz" onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <form id="quizForm" style="display:none;"></form>
+
+  <div id="result"></div>
+
+  <script>
+    const questionsData = {
+      "Air Law": [
+        { question: "What is the minimum safe altitude over a congested area?", options: ["500 feet", "1000 feet", "2000 feet", "2500 feet"], answer: 1 },
+        { question: "When must a pilot file a flight plan?", options: ["Always", "For IFR flights", "Only international flights", "Never"], answer: 1 },
+      ],
+      "Meteorology": [
+        { question: "What type of cloud is associated with thunderstorms?", options: ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"], answer: 2 },
+        { question: "What does a METAR report?", options: ["Forecast", "Current weather", "Cloud height only", "Runway conditions"], answer: 1 },
+      ]
+    };
+
+    const sectionSelector = document.getElementById("sectionSelector");
+    Object.keys(questionsData).forEach(section => {
+      const label = document.createElement("label");
+      label.innerHTML = `<input type="checkbox" value="${section}" checked> ${section}`;
+      sectionSelector.appendChild(label);
+      sectionSelector.appendChild(document.createElement("br"));
+    });
+
+    function getRandomQuestions(array, count) {
+      const shuffled = array.slice().sort(() => 0.5 - Math.random());
+      return shuffled.slice(0, count);
+    }
+
+    let selectedQuestions = [];
+
+    function startQuiz() {
+      const num = parseInt(document.getElementById('numQuestions').value) || 2;
+      selectedQuestions = [];
+
+      const checkboxes = sectionSelector.querySelectorAll("input[type='checkbox']");
+      const selectedSections = Array.from(checkboxes).filter(cb => cb.checked).map(cb => cb.value);
+
+      if (selectedSections.length === 0) {
+        alert("Please select at least one section.");
+        return;
+      }
+
+      selectedSections.forEach(section => {
+        const sectionQuestions = getRandomQuestions(questionsData[section], Math.min(num, questionsData[section].length));
+        selectedQuestions.push(...sectionQuestions.map(q => ({ ...q, section })));
+      });
+
+      renderQuiz();
+    }
+
+    function renderQuiz() {
+      document.getElementById("setup").style.display = "none";
+      const form = document.getElementById("quizForm");
+      form.style.display = "block";
+      form.innerHTML = '';
+
+      selectedQuestions.forEach((q, idx) => {
+        const div = document.createElement('div');
+        div.className = 'question';
+        div.innerHTML = `<strong>[${q.section}] Q${idx + 1}:</strong> ${q.question}<br>`;
+
+        q.options.forEach((opt, oIdx) => {
+          const id = `q${idx}_opt${oIdx}`;
+          div.innerHTML += `
+            <label>
+              <input type="radio" name="q${idx}" value="${oIdx}">
+              ${opt}
+            </label><br>`;
+        });
+
+        form.appendChild(div);
+      });
+
+      const submitBtn = document.createElement('button');
+      submitBtn.type = 'button';
+      submitBtn.textContent = 'Submit';
+      submitBtn.onclick = evaluateQuiz;
+      form.appendChild(submitBtn);
+    }
+
+    function evaluateQuiz() {
+      const form = document.getElementById("quizForm");
+      const result = document.getElementById("result");
+      let score = 0;
+
+      selectedQuestions.forEach((q, idx) => {
+        const radios = form.querySelectorAll(`input[name=\"q${idx}\"]`);
+        const selected = [...radios].find(r => r.checked);
+        const correctIndex = q.answer;
+
+        radios.forEach((r, oIdx) => {
+          const label = r.parentElement;
+          label.classList.remove('correct', 'wrong');
+
+          if (parseInt(r.value) === correctIndex) {
+            label.classList.add('correct');
+          } else if (selected && parseInt(r.value) === parseInt(selected.value)) {
+            label.classList.add('wrong');
+          }
+
+          r.disabled = true;
+        });
+
+        if (selected && parseInt(selected.value) === correctIndex) score++;
+      });
+
+      result.innerHTML = `<h2>You scored ${score} out of ${selectedQuestions.length}</h2>`;
+    }
+  </script>
+
+</body>
+</html>
