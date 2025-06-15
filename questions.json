@@ -1713,6 +1713,206 @@
           "Warm air over the sea against cooler land air creates the frontal system."
         ],
         "answer": 2
-      }
+      },
+      {
+        "question": "What is the cause of katabatic winds?",
+        "options": [
+        "Cooling air becomes more dense and therefore sinks. At night this sinking air will flow down hills and through valleys creating the wind.",
+        "Warm air becomes less dense and rises. With the sun on a slope during the day, warm air flows up hill creating the wind.",
+        "Exhaust air descending in a high pressure system leads to the creation of the wind.",
+        "The wind blowing over a ridge creates a low pressure on the leeward slope which in turn sucks air out of the leeward valley creating the wind."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the name given to the point at which water vapour condenses, and what is the required humidity?",
+        "options": [
+        "The dew point and can occur at any percentage saturation.",
+        "The saturation level and can occur above 90% saturation.",
+        "The dew point and requires 100% saturation.",
+        "The evaporation point and requires 100% saturation."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the ICAO standard altimeter setting?",
+        "options": [
+        "What ever the regional QNH is on the flight.",
+        "What ever the forecast QNH is on the day.",
+        "1013.2 millibars, ( hectopascals ), regardless of local conditions.",
+        "1013.2 millibars, (hectopascals ), unless the regional QNH is lower."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When an altimeter scale is set to QNH, what does it indicate?",
+        "options": [
+        "Height above the ground.",
+        "Altitude above the ground.",
+        "Altitude, which is height above 1013.2 millibars, ( hectopascals).",
+        "Altitude, which is height above mean sea level."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What conditions are usually associated with warm dry air from the continent flowing over the UK in the summer?",
+        "options": [
+        "Convective cloud, showers and thunderstorms.",
+        "Stratus, sea fog and drizzle.",
+        "Warm with clear skies.",
+        "Warm with hazy weather."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is the most accurate definition of the adiabatic lapse rate?",
+        "options": [
+        "The rate of change of temperature due to expansion with increasing height, taking into account the moisture content, i.e. dry or saturated.",
+        "The rate of change of temperature with increasing height.",
+        "The rate of change of pressure with height, taking into account the moisture content, i.e. dry or saturated.",
+        "The rate of change of pressure with height, taking into account air temperature."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The surface temperature is 20 degrees and the trigger temperature is 24 degrees centigrade. Assuming the environmental lapse rate 2 degrees, the dry adiabatic lapse rate is 3 degrees, what height will the thermal go to?",
+        "options": [
+        "2000 feet.",
+        "3000 feet.",
+        "4000 feet.",
+        "5000 feet."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "At what height is the surface wind measured?",
+        "options": [
+        "20 metres. (60 feet).",
+        "10 metres. ( 30 feet).",
+        "5 metres. (15 feet).",
+        "3 metres. (10 feet)."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An anticyclone may be described as the atmosphere at rest. What does the air mass consist of?",
+        "options": [
+        "Slowly subsiding air flowing anticlockwise in the northern hemisphere.",
+        "Slowly rising air flowing clockwise in the northern hemisphere.",
+        "Rapidly subsiding air flowing anticlockwise in the northern hemisphere.",
+        "Slowly subsiding air flowing clockwise in the northern hemisphere."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What would be an indication of a strong wind on a weather Chart?",
+        "options": [
+        "Isobars close together indicating a slack pressure gradient.",
+        "Isobars close together indicating a steep pressure gradient.",
+        "Contours close together indicating a steep wind gradient.",
+        "Isobars far apart indicating a steep pressure gradient."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the cause of the Coriolis effect?",
+        "options": [
+        "Rotation of the earth.",
+        "Vertical air movements within a high.",
+        "Pressure differences.",
+        "Vertical air movements within a low."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which direction does air flow around a high pressure in the northern hemisphere?",
+        "options": [
+        "Anticlockwise.",
+        "Clockwise.",
+        "From low pressure to high pressure.",
+        "South."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the name given to lines depicting points of equal pressure on a synoptic chart?",
+        "options": [
+        "Isogonals.",
+        "Isobars.",
+        "Contours.",
+        "Isometrics."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the cause of anabatic winds?",
+        "options": [
+        "Cooling air becomes more dense and therefore sinks. At night this sinking air will flow down hills and through valleys creating the wind.",
+        "Warm air becomes less dense and rises. With the sun on a slope during the day, warm air flows up hill creating the wind.",
+        "Exhaust air descending in a high pressure system leads to the creation of the wind.",
+        "The wind blowing over a ridge creates a low pressure on the leeward slope which in turn sucks air out of the leeward valley creating the wind."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the cause of Hoar frost?",
+        "options": [
+        "Dry air in contact with the ground being cooled below freezing.",
+        "Dry air in contact with the ground being saturated.",
+        "Moist air in contact with any surface being cooled below freezing.",
+        "Moist air in contact with the sea being cooled below freezing."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the cause of hill Fog?",
+        "options": [
+        "Moist air forced uphill and its temperature reduced to below the dew point.",
+        "Dry air forced up hill and its temperature increased to the saturation point.",
+        "Moist air forced down hill and its temperature increased to the saturation point.",
+        "Moist air forced up hill and its temperature increased above the dew point."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What are the values of the dry adiabatic lapse rate (DALR) and saturated adiabatic lapse rate (SALR)?",
+        "options": [
+        "DALR = 3 C per 1000 ft, SALR = 2 C per 1000 ft.",
+        "DALR = 3 F per 1000 ft, SALR = 2 F per 1000 ft.",
+        "DALR = 3 C per 100 ft, SALR = 1.5 C per 100 ft.",
+        "DALR = 3 C per 1000 ft, SALR = 1.5 C per 1000 ft."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the cause of wind?",
+        "options": [
+        "The coriolis force.",
+        "Pressure differences trying to reach equilibrium.",
+        "The rotation of the earth.",
+        "Air mass modification."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cloud amounts are reported in Oktas. Clouds are also divided into 10 main classifications. What does the information 3/8 SC, 6/8 CS, 4/8 AC indicate?",
+        "options": [
+        "3/8 Stratocumulus, 3/4 cover Cirrostratus, 1/2 cover Altocumulus.",
+        "3/8 Stratus, 3/4 cover Cirrostratus, 4/8 cover Altocirrus.",
+        "3/8 Cumulostratus, 6/8 Stratocumulus, 4/8 Altocumulosaltus.",
+        "3/8 Stratocumulus, 6/8 cirrostratus, 4/8 Altrocirrolus."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What are the most severe weather conditions causing destructive winds, squalls, heavy rain and hail, generally associated with?",
+        "options": [
+        "Thunderstorms and line squalls over land.",
+        "Slow moving cold fronts over the sea.",
+        "Fast moving warm fronts over the land.",
+        "Fast moving cold fronts over the sea."
+        ],
+        "answer": 0
+    }
   ]
 }
