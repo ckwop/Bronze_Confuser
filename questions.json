@@ -1342,5 +1342,177 @@
                 ],
                 "answer": 1
               }
-    ]
+    ],
+    "Meteorology": [
+    {
+      "question": "At the passage of a cold front, what will the wind do?",
+      "options": ["Veer and decrease.", "Back and decrease.", "Veer and increase.", "Back and increase."],
+      "answer": 2
+    },
+    {
+      "question": "What type of cloud is associated with moist air flowing over a hill?",
+      "options": ["Anabatic cloud.", "Radiation cloud.", "Advection cloud.", "Orographic cloud."],
+      "answer": 3
+    },
+    {
+      "question": "What does ‘Buys Ballots’ law state of the northern hemisphere?",
+      "options": [
+        "If you stand with your back to the wind the low is on your left.",
+        "If you stand with your back to the wind the low is on your right.",
+        "Low pressure systems rotate clockwise when viewed from above.",
+        "Temperature decreases with height at a rate of 1.7 degrees per 1000 ft."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is usually the first sign of an approaching warm front in the summer months?",
+      "options": [
+        "Cumulo nimbus rapidly approaching from the west.",
+        "High layer cloud slowly approaching, with weakening soaring conditions.",
+        "Rain, heavy at first, slowly dying out as the front approaches.",
+        "Increasing winds, but little prospect of rain."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What weather associated with cumulo nimbus is considered to be the worst hazard when landing a glider?",
+      "options": [
+        "Lightning, blinding pilots and damaging gliders.",
+        "Heavy rain leaving the wings performance seriously degraded.",
+        "Icing, degrading performance and making vision through the canopy difficult.",
+        "Increased wind strength together with rapid direction changes, making landing in particular, very difficult."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the cause of radiation fog?",
+      "options": [
+        "Warm dry air flowing over cold wet ground.",
+        "Warm moist air flowing over cold dry ground, being cooled from beneath.",
+        "The sun warming cold moist ground.",
+        "Moist air cooling over night to below the dew point with light winds."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the lower atmosphere, what is regarded as being the accepted reduction of pressure with increase in height?",
+      "options": [
+        "30 mb per 1000 feet.",
+        "1 mb per 30 feet.",
+        "1mb per 1000 feet.",
+        "30 mb per 10,000 feet."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is wind gradient?",
+      "options": [
+        "Rapid changes in wind direction with height.",
+        "Turbulence, due to the fast flow close to the ground.",
+        "The difference in pressure between a high and a low.",
+        "Rapid reduction in wind strength close to the ground."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A high pressure inversion in summer will have what effects on soaring?",
+      "options": [
+        "Prevention of the formation of thermals.",
+        "Prevention of the formation of cumulus, once the inversion is below the dew point.",
+        "Increase the overall average thermal strength due to lack of cloud shadow.",
+        "Allow thermals to continue later into the evening."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the overlapping of a warm and cold front called?",
+      "options": ["An occlusion.", "A col.", "A depression.", "An inversion."],
+      "answer": 0
+    },
+    {
+      "question": "What is the name given to a line drawn on a map joining places of equal pressure?",
+      "options": ["An Isobar.", "A millibar.", "A pressure gradient.", "An Isogonal."],
+      "answer": 0
+    },
+    {
+      "question": "Whilst flying cross country you notice that the cumulus are getting larger and some have developed an anvil shape at the top. What weather is most likely to follow?",
+      "options": [
+        "Rapidly improving soaring conditions.",
+        "Deteriorating soaring conditions due to the increase in cloud shadow.",
+        "Thunder storms or rain showers leading to unsoarable areas.",
+        "Wide spread rain."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What effect in general, does a building high pressure system have on the level of an inversion?",
+      "options": [
+        "The level rises as the high pressure system approaches.",
+        "The level remains the same, however, the dew point does rise above it.",
+        "The level falls slowly as the high pressure system approaches.",
+        "There is no effect on the inversion, however, the cloud base will lower."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where might you find rotor cloud?",
+      "options": [
+        "Over hill tops and in the lee of hills in association with wave systems.",
+        "Along a sea breeze front in association with strong lift and sink.",
+        "In front of orographic cloud.",
+        "Underneath cumulus nimbus clouds in association with down draughts."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens to visibility and temperature at the passage of a cold front?",
+      "options": [
+        "Visibility increases and temperature decreases.",
+        "Visibility decreases and temperature decreases.",
+        "Visibility increases and temperature increases.",
+        "Visibility decreases and temperature increases."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are the effects of diurnal variation on the soaring day?",
+      "options": [
+        "The wind increases at the start of the day and decreases at the end of the day.",
+        "The wind veers and increases at the start of the day and backs and decreases at the end of the day.",
+        "The wind backs and increases at the start of the day and veers and decreases at the end of the day.",
+        "The wind veers and decreases at the start of the day and backs and increases at the end of the day."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The forecast wind is due to veer by 30 degrees during the morning. If the wind direction is a north easterly at the start, what will be the wind direction after it has veered, assuming the forecast is correct?",
+      "options": ["015 degrees.", "045 degrees.", "075 degrees.", "225 degrees."],
+      "answer": 2
+    },
+    {
+      "question": "Due to a high pressure system the prevailing wind across the UK is from the south west on a summers day. What name best describes this wind?",
+      "options": ["Tropical maritime.", "Tropical continental.", "Polar maritime.", "Polar continental."],
+      "answer": 0
+    },
+    {
+      "question": "What is the cause of advection fog?",
+      "options": [
+        "Warm dry air, flowing over cold wet ground.",
+        "Warm moist air, flowing over a cold surface, being cooled from beneath.",
+        "The sun, warming cold moist ground.",
+        "Warm moist air, flowing over a hill or ridge."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the atmosphere, air flows from high pressure to low pressure in an attempt to reach equilibrium. Why then, does the wind flow anti clockwise round a low pressure when viewed from above?",
+      "options": [
+        "Due to the Earths rotation and the coriander effect.",
+        "Due to the Earths rotation and the Coriolis effect.",
+        "Due to the jet stream in association with the low.",
+        "Due to temperature gradients within the low creating friction between layers"
+      ],
+      "answer": 1
+    }
+  ]
 }
