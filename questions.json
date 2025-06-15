@@ -520,5 +520,207 @@
                 ],
                 "answer": 1
               }
-          ]
+          ],
+          "Airmanship": [
+            {
+            "question": "You have just landed your glider heavily. What are the correct actions?",
+            "options": [
+                "No action needed",
+                "Inform the duty instructor before the aircraft flies again.",
+                "Continue flying as normal",
+                "Report to maintenance later"
+            ],
+            "answer": 1
+            },
+            {
+            "question": "What will happen to the eyes when a pilot is operating at altitude or above cloud with an empty field of view?",
+            "options": [
+                "Eyes focus at infinity",
+                "Eyes become tired quickly",
+                "Eyes will tend to focus very close",
+                "They will tend to focus at a point 1 to 2 metres away."
+            ],
+            "answer": 3
+            },
+            {
+            "question": "What will happen to the pilot who accepts a seating position that is too low in the cockpit?",
+            "options": [
+                "They will lose from view a part of the approach area under the nose of the glider.",
+                "Seating position is irrelevant",
+                "They get better visibility",
+                "No effect on pilot's vision"
+            ],
+            "answer": 0
+            },
+            {
+            "question": "On arrival at a strange airfield, you call on the notified frequency but get no reply. Your radio is serviceable, what should your actions be?",
+            "options": [
+                "Abort landing",
+                "Land immediately",
+                "Continue with intended landing, watch for other traffic and follow suit, make relevant ‘blind calls’ on the radio.",
+                "Try a different frequency"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "What are the correct actions on joining a thermal?",
+            "options": [
+                "Turn the same direction as other gliders and keep a good lookout.",
+                "Turn opposite to others",
+                "Maintain altitude without turning",
+                "Leave the thermal immediately"
+            ],
+            "answer": 0
+            },
+            {
+            "question": "While ridge soaring with the hill on your right, you have to overtake another glider. What should your actions be?",
+            "options": [
+                "Overtake on the left",
+                "Overtake on the right.",
+                "Signal before overtaking",
+                "Overtake only if the other pilot signals"
+            ],
+            "answer": 1
+            },
+            {
+            "question": "While watching a glider about to launch with a senior instructor on board, you notice the air brakes are open. What should you do?",
+            "options": [
+                "Ignore it",
+                "Signal the pilot",
+                "Stop the launch and bring it to the attention of the duty instructor.",
+                "Report after launch"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "You have flown every weekend for six months but missed the last four weekends. What should your actions be?",
+            "options": [
+                "Fly as usual",
+                "Ask for a check flight or discuss your situation with the duty instructor.",
+                "No action needed",
+                "Practice solo flying"
+            ],
+            "answer": 1
+            },
+            {
+            "question": "You notice on the daily inspection that the radio keeps blowing fuses. What should you do?",
+            "options": [
+                "Replace the radio",
+                "Use it carefully",
+                "Get a qualified person to check the radio or clearly mark the radio ‘u/s’.",
+                "Ignore and continue flying"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "A glider on a head on collision course with a military aircraft could have a very high closing speed. In such a situation, how would the image of the military aircraft appear to grow in size with decreasing range?",
+            "options": [
+                "Image grows rapidly from the start",
+                "Image stays same size until close",
+                "Initial growth would be small until close to impact where growth would become rapid.",
+                "Image does not change size"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "As the winch cable is being attached you notice that the weak link is damaged. What should you do?",
+            "options": [
+                "Proceed with caution",
+                "Have the suspect item changed before launching.",
+                "Ignore it",
+                "Report after flight"
+            ],
+            "answer": 1
+            },
+            {
+            "question": "You are commencing a launch on the winch when you notice a glider turning in early to land up the field. Is this a problem?",
+            "options": [
+                "No problem",
+                "Wait until they land",
+                "Warn them",
+                "Yes, if you have a launch failure you may have conflicting approaches."
+            ],
+            "answer": 3
+            },
+            {
+            "question": "You are converting to a new type. There is a cross wind and you are about to aerotow on the belly hook using an unusually short aerotow rope. What should you do?",
+            "options": [
+                "Proceed normally",
+                "Ask for longer rope",
+                "Refuse the launch as it is getting dangerous to continue under the circumstances.",
+                "Adjust seating position"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "A glider and a military aircraft could have a closing speed of 600 kts. If the visibility is 5 miles, but the pilots only see each other at 3 miles, how much time would the pilots have to avoid collision?",
+            "options": [
+                "About 20 seconds.",
+                "About 10 seconds",
+                "About 30 seconds",
+                "About 1 minute"
+            ],
+            "answer": 0
+            },
+            {
+            "question": "You are breathing abnormally and showing symptoms similar to hypoxia at a low altitude where hypoxia would not be a consideration. What are you likely to be suffering from?",
+            "options": [
+                "Hypoxia",
+                "Dehydration",
+                "Carbon monoxide poisoning",
+                "Hyperventilation."
+            ],
+            "answer": 3
+            },
+            {
+            "question": "There are certain vital actions to be taken in the event of a launch failure. Which of the following is the most correct statement?",
+            "options": [
+                "Try to restart launch",
+                "Adopt a nose down attitude, regain a safe flying speed, release what is left of the cable and land according to your ‘Eventualities’ brief if possible.",
+                "Continue launching",
+                "Signal ground crew"
+            ],
+            "answer": 1
+            },
+            {
+            "question": "On visiting a hill site, you read on the notice board a club rule stating a minimum height to leave the hill and return to site. Who does this apply to?",
+            "options": [
+                "All pilots, regardless of experience and ability.",
+                "Only new pilots",
+                "Only experienced pilots",
+                "Only instructors"
+            ],
+            "answer": 0
+            },
+            {
+            "question": "You are wire launching when you notice the parachute opening. What should be your immediate actions?",
+            "options": [
+                "Ignore it",
+                "Continue launching",
+                "Treat the situation as a launch failure and take the appropriate actions.",
+                "Signal ground crew"
+            ],
+            "answer": 2
+            },
+            {
+            "question": "Whilst flying downwind with a higher performance glider in front, and at about the same height as yourself, you notice he appears to be extending downwind further than you would like. What action should you take?",
+            "options": [
+                "Speed up to catch up",
+                "Maintain course",
+                "Turn late",
+                "Turn in early and be prepared to land up the field if necessary in order to avoid a potential conflict."
+            ],
+            "answer": 3
+            },
+            {
+            "question": "After getting low on a cross country and choosing a field, you notice there is a stream along one side of it. What might this signify?",
+            "options": [
+                "The field slopes down towards the stream",
+                "The field is flat",
+                "The field slopes away from the stream",
+                "No significance"
+            ],
+            "answer": 0
+            }
+    ]
 }
