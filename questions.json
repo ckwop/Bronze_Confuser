@@ -3,10 +3,10 @@
         {
             "question": "What are the minimum requirements for flying in cloud in gliders?",
             "options": [
-              "The occupants must wear a serviceable parachute and have been instructed in its use.",
-              "The pilot must have received instruction in the use of blind flying instruments.",
-              "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
-              "All the above."
+                "The occupants must wear a serviceable parachute and have been instructed in its use.",
+                "The pilot must have received instruction in the use of blind flying instruments.",
+                "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
+                "All the above."
             ],
             "answer": 0
         },
@@ -33,62 +33,172 @@
         {
             "question": "Under what circumstances is a weak link not required in the winch / auto tow cable?",
             "options": [
-              "The launch is a hill top site where the conditions are likely to be rough and break the weak link on a regular basis.",
-              "The proven breaking strain of the launch cable is lower than that of the weak link strength required by the glider manufacturer.",
-              "The tow car is of low power.",
-              "The glider is a heavy two seater with a history of breaking weak links."
+                "The launch is a hill top site where the conditions are likely to be rough and break the weak link on a regular basis.",
+                "The proven breaking strain of the launch cable is lower than that of the weak link strength required by the glider manufacturer.",
+                "The tow car is of low power.",
+                "The glider is a heavy two seater with a history of breaking weak links."
             ],
             "answer": 1
         },
         {
             "question": "What are your actions if you suspect any defect or damage to a glider?",
             "options": [
-              "Report it to the duty pilot before the next flight.",
-              "Report it to the duty instructor before the next flight.",
-              "Note the defect or damage in the DI book before the next flight.",
-              "Ground the glider until an inspector can check for defects or damage."
+                "Report it to the duty pilot before the next flight.",
+                "Report it to the duty instructor before the next flight.",
+                "Note the defect or damage in the DI book before the next flight.",
+                "Ground the glider until an inspector can check for defects or damage."
             ],
             "answer": 1
-          },
-          {
+            },
+            {
             "question": "What are the VMC rules when flying in class D airspace below 3000ft AMSL at 140 kts or less?",
             "options": [
-              "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-              "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-              "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-              "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
+                "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+                "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+                "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+                "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
             ],
             "answer": 3
-          },
-          {
+            },
+            {
             "question": "When aerotowing, the tug rocks its wings laterally. What does this mean?",
             "options": [
-              "Release, you're at 2000 ft.",
-              "Release immediately.",
-              "Your air brakes are open.",
-              "The tug can't release."
+                "Release, you're at 2000 ft.",
+                "Release immediately.",
+                "Your air brakes are open.",
+                "The tug can't release."
             ],
             "answer": 1
-          },
-          {
+            },
+            {
             "question": "When two aircraft are approaching head on, each shall alter its course in which direction?",
             "options": [
-              "To the left.",
-              "Only the first to see the other need take avoiding action to the right.",
-              "Only one alters course to the right to save any confusion.",
-              "To the right."
+                "To the left.",
+                "Only the first to see the other need take avoiding action to the right.",
+                "Only one alters course to the right to save any confusion.",
+                "To the right."
             ],
             "answer": 3
-          },
-          {
+            },
+            {
             "question": "When two aircraft are converging at approximately the same height, who has the right of way?",
             "options": [
-              "The aircraft which has the other on its right has right of way.",
-              "The aircraft on the left.",
-              "Neither. Both must take avoiding action.",
-              "The aircraft which has the other on its right shall give way."
+                "The aircraft which has the other on its right has right of way.",
+                "The aircraft on the left.",
+                "Neither. Both must take avoiding action.",
+                "The aircraft which has the other on its right shall give way."
             ],
             "answer": 3
-          }       
-    ]
+            },
+            {
+            "question": "Who has command of a tug / glider combination?",
+            "options": [
+                "The tug pilot.",
+                "The glider pilot.",
+                "Neither, as there must be a captain of each aircraft.",
+                "The most senior of the two pilots."
+            ],
+            "answer": 0
+            },
+        {
+                "question": "A glider shall not fly over any congested area below a height which would enable it to land clear of the area, or below 1500ft above the highest fixed object within 2000ft., which ever is the higher. Nor shall it fly over or within 3000ft of any open air assembly of more than 1000 persons (without specific CAA permission). When is there an exemption to the 1500 foot rule?",
+                "options": [
+                "Never, the rule is rigid and must be adhered to at all times.",
+                "During normal take-off and landing and for life saving.",
+                "Only when excellent soaring conditions exist.",
+                "Only during a field landing."
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Which of the following statements is most correct?",
+                "options": [
+                "Gliders shall give way to airships and balloons.",
+                "Gliders shall give way to balloons.",
+                "Balloons shall give way to gliders.",
+                "Gliders shall give way to aerotow combinations only."
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Above what height should oxygen equipment be carried and what height is recommended for its use?",
+                "options": [
+                "10,000 ft amsl and use above 12,000 ft amsl.",
+                "12,000 ft amsl and use above 10,000 ft amsl.",
+                "10,000 ft amsl and use above 10,000 ft amsl.",
+                "12,000 ft amsl and use above 12,000 ft amsl."
+                ],
+                "answer": 1
+            },
+            {
+                "question": "What must all glider pilots carry on flights over 5 nautical miles from their gliding site?",
+                "options": [
+                "A low level navigation chart.",
+                "Map(s) marked clearly with the controlled and regulated airspace.",
+                "A flight plan.",
+                "A serviceable parachute."
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Any accident resulting in death, serious injury or substantial damage to an aircraft must be reported to whom?",
+                "options": [
+                "The BGA within 24 hours.",
+                "The Department of Transport AAIB.",
+                "The Police.",
+                "The Police and the Department of Transport AAIB."
+                ],
+                "answer": 3
+            },
+            {
+                "question": "What is the maximum launch height allowed by the winch method without written permission from the CAA?",
+                "options": [
+                  "There is no limit.",
+                  "2000 ft.",
+                  "60 metres.",
+                  "2000 ft, but up to 3000 ft at a few notified sites."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "A glider is defined as being in flight during what period?",
+                "options": [
+                  "From when it leaves the ground until it touches down again.",
+                  "From the signal 'take up slack' until it comes to rest after landing.",
+                  "From when it first moves to take-off until it comes to rest after landing.",
+                  "From the signal 'all out' until it touches down again."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "A continuous green light to an aircraft in flight means what?",
+                "options": [
+                  "Land immediately.",
+                  "You may land.",
+                  "Land when safe to do so.",
+                  "Do not land."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Which of the following is not recommended for flight?",
+                "options": [
+                  "Rain on the wings when the air temperature is close to freezing.",
+                  "Frost on the wings.",
+                  "Snow on the wings.",
+                  "All of the above."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What are the dimensions of an air traffic zone at an airfield where the longest runway is greater than 1850 metres?",
+                "options": [
+                  "2000 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
+                  "2500 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
+                  "2000 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway.",
+                  "2500 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway."
+                ],
+                "answer": 0
+              }
+          ]
 }
