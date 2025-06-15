@@ -199,6 +199,56 @@
                   "2500 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway."
                 ],
                 "answer": 0
+              },
+              {
+                "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Restricted area. What does this mean with regards to a glider in flight?",
+                "options": [
+                  "There is little relevance as the restrictions can not be complied with by a glider.",
+                  "Flight within the published dimensions of the area must comply with the specified restrictions.",
+                  "There shall be no thermalling within the restricted area.",
+                  "Flight is restricted due to the density of traffic within the area."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "When landing close behind other aircraft, and in particular power aircraft, what should be your actions?",
+                "options": [
+                  "Over fly them and land long.",
+                  "Land clear to their left.",
+                  "You can land on either side.",
+                  "Land clear to their right."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "Whilst approaching an airfield you notice a red flare fired from the control tower. What should your actions be?",
+                "options": [
+                  "Keep a good look out as there must be another aircraft near by.",
+                  "Do not land, wait for permission.",
+                  "Remain clear of the ATZ.",
+                  "Continue with the circuit and watch for further instructions."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What are the signal requirements from a glider pilot who is unable to release from the aerotow?",
+                "options": [
+                  "Fly out to the left and rock his wings.",
+                  "Fly out to the right and rock his wings.",
+                  "Try to break the rope.",
+                  "Call on the radio and inform the tug pilot of the problem."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "If a solo glider pilot does not hold a CAA or equivalent medical or a current driving licence, what are the ‘declaration of health’ requirements?",
+                "options": [
+                  "Before first flying solo and on 50th, 60th and 65th birthdays.",
+                  "Before first flying solo and every 10 years there after.",
+                  "Before first flying solo and every 5 years there after.",
+                  "Before first flying solo."
+                ],
+                "answer": 0
               }
           ]
 }
