@@ -241,7 +241,7 @@
                 "answer": 0
               },
               {
-                "question": "If a solo glider pilot does not hold a CAA or equivalent medical or a current driving licence, what are the ‘declaration of health’ requirements?",
+                "question": "If a solo glider pilot does not hold a CAA or equivalent medical or a current driving licence, what are the 'declaration of health' requirements?",
                 "options": [
                   "Before first flying solo and on 50th, 60th and 65th birthdays.",
                   "Before first flying solo and every 10 years there after.",
@@ -249,6 +249,276 @@
                   "Before first flying solo."
                 ],
                 "answer": 0
+              },
+              {
+                "question": "What does a white dumbbell displayed in the signal square signify?",
+                "options": [
+                  "Both gliders and powered aircraft are operating from the airfield.",
+                  "Movements of aircraft on the ground are confined to paved surfaces.",
+                  "Winch launching and aerotows are in progress at the same time.",
+                  "Paved areas are only available for powered aircraft. Gliders must land on the grass."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Which statement is incorrect? You shall not fly -",
+                "options": [
+                  "Over or within 3000 ft of any open air assembly of more than 1000 people.",
+                  "Below a height of 1500 ft above the highest fixed obstacle within 2000 ft.",
+                  "Below a height of 2000 ft above any congested area of a city, town or settlement.",
+                  "Below a height which would enable it to land clear of the area."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "Your cross country route takes a line through East Midlands CTA. What must be your actions during the flight?",
+                "options": [
+                  "Maintain VMC whilst in the CTA and keep a good look out.",
+                  "Cross at the lowest possible level to avoid conflict with other traffic.",
+                  "Call the ATC unit to inform them of your presence. You must hold a CAA RT license.",
+                  "Cross at right angles, maintaining VMC."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What is the tug pilot signalling when you see the rudder waggling whilst on tow?",
+                "options": [
+                  "Check your air brakes are not open or drag chute deployed and close or jettison as necessary.",
+                  "You are to release immediately.",
+                  "Wait until the tug tows you overhead the airfield and releases his end of the rope.",
+                  "Expect the tug to slow down and continue at a slower speed."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Other than persons by parachute in an emergency, which is most correct statement with reference to items permitted to be dropped from a glider in flight?",
+                "options": [
+                  "Ballast in the form of water only.",
+                  "Tow ropes at an approved airfield.",
+                  "Ballast in the form of fine sand only.",
+                  "Ballast in the form of fine sand or water."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What are the VMC minima required for gliders crossing airways?",
+                "options": [
+                  "Gliders are not allowed to cross airways at all except by local agreement.",
+                  "1000m horizontally, 1500ft vertically and 8km visibility.",
+                  "1500m horizontally, 1000ft vertically and 5km visibility.",
+                  "1500m horizontally, 1000ft vertically and 8km visibility."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Prohibited area. What does this mean with regards to gliders in flight?",
+                "options": [
+                  "There is little relevance as the area is only prohibited to powered aircraft.",
+                  "Flight within the published dimensions of the area is prohibited.",
+                  "Landing within the area is prohibited.",
+                  "Flight is prohibited directly over head the area."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What are the requirements to fly a newly rigged club aircraft?",
+                "options": [
+                  "Any pilot with the type endorsement in their log book.",
+                  "You must be an instructor authorised by the CFI or deputy for that purpose.",
+                  "Any instructor who is self authorising may carry out the task.",
+                  "You must be authorised by the CFI or deputy for that purpose."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What are the hours of day light (determined on the ground ) as defined for flying purposes?",
+                "options": [
+                  "Street lights 'off ' to street lights 'on'.",
+                  "30 minutes before sunrise until 30 minutes after sunset.",
+                  "30 minutes after sunrise until 30 minutes before sunset.",
+                  "Sunrise until sunset."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What are the requirements for keeping an accurate and up to date personal flying log book?",
+                "options": [
+                  "All pilots up to silver C and all instructors to prove their renewal requirements have been met.",
+                  "All pilots regardless of hours and qualifications.",
+                  "There are no requirements.",
+                  "All pilots flying club owned aircraft to prove their currency."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Whilst hill soaring which of the following statements is always true?",
+                "options": [
+                  "A glider wishing to overtake another should pass on its left side.",
+                  "A glider wishing to overtake another should pass between it and the hill.",
+                  "A glider wishing to overtake another should pass on its right side.",
+                  "A glider wishing to overtake another should pass beneath it."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Who has the right of way when two aircraft are landing together?",
+                "options": [
+                  "The faster aircraft.",
+                  "The lower aircraft. ( unless the other is obviously in distress ).",
+                  "The aircraft with the lower performance, but only if it is a two seater.",
+                  "The least experienced pilot."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What does a red and yellow striped arrow in the signal square of an airfield indicate?",
+                "options": [
+                  "The direction to follow the taxiway when recovering aircraft or gliders to park.",
+                  "The direction of thermal turns for gliders.",
+                  "The direction in which to vacate the runway after landing.",
+                  "The direction of circuit in use."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are joining below a glider in a thermal. What are your actions?",
+                "options": [
+                  "Leave the thermal and find another.",
+                  "Turn either direction as long as there is sufficient separation.",
+                  "Turn in the same direction.",
+                  "Remain at a safe distance below the other glider."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "Whilst planning a cross country flight you notice by reference to Notams that a purple airway has been established along your intended route during the period 1300 to 1500 Hrs. What should your actions be?",
+                "options": [
+                  "Continue as planned as it only applies to powered aircraft.",
+                  "Change your route to remain clear of the airway during the notified period.",
+                  "Continue as planned and cross the airway in VMC conditions at right angles.",
+                  "Cross the airway as low as possible to avoid conflict with the royal aircraft."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Danger area. What does this mean with regards to a glider in flight?",
+                "options": [
+                  "Flight within the published dimensions is restricted to periods where no dangerous activities are taking place.",
+                  "Flight within the published dimensions may encounter activities dangerous to the glider or it's occupants.",
+                  "There is little relevance to gliders as they may enter the area at will.",
+                  "Flight within the published dimensions is prohibited."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What does a double white cross ( ++ ) showing on a runway indicate?",
+                "options": [
+                  "An area where the runway is not available for landing.",
+                  "Gliders and powered aircraft are using the same runway.",
+                  "An area that shall only be used for the take off and landing of gliders.",
+                  "An area that shall only be used for powered aircraft."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What are the knock-on effects of a glider pilot's driving licence being revoked on medical grounds?",
+                "options": [
+                  "The pilot should inform his CFI within 30 days, who will make the appropriate decision.",
+                  "The pilot should only fly solo. No passenger carrying allowed.",
+                  "The pilot becomes unfit to fly gliders solo.",
+                  "There are no problems and the pilot may continue as normal."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What does a white 'T' in the signal square of an airfield denote?",
+                "options": [
+                  "Aircraft landing and taking off will do so in a direction parallel with the shaft of the 'T' and towards the cross arm.",
+                  "The location of the tea cabin.",
+                  "Gliders will be landing at right angles to that of powered aircraft.",
+                  "Two runways are simultaneously in use."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "All BGA gliders must carry their approved identification markings. What are the requirements?",
+                "options": [
+                  "Displayed on the under side of the starboard wing.",
+                  "Displayed on the fin and rudder and on the under side of the port wing.",
+                  "Displayed on each side of the fin and rudder or on the fuselage in a substantially vertical plane. As large as practicable.",
+                  "Displayed in the cockpit as a reminder when using the radio."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "Nose of tug to tail of glider, what is the maximum length of a tug / glider combination?",
+                "options": [
+                  "150 yards in total.",
+                  "150 metres in total.",
+                  "100 yards in total.",
+                  "100 metres in total."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What is the minimum number of aerotows required by the tug pilot and glider pilot combined before launching may take place?",
+                "options": [
+                  "20.",
+                  "10.",
+                  "6.",
+                  "There is no minimum requirement as both are trained for their respective roles."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What is the minimum equipment required in a glider used for aerobatic flying?",
+                "options": [
+                  "A five point harness and serviceable parachute.",
+                  "An approved pitot tube extension to enable inverted flight.",
+                  "An artificial horizon.",
+                  "A serviceable G meter."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What is the minimum age required before flying a glider solo in the United Kingdom?",
+                "options": [
+                  "16 years.",
+                  "14 years.",
+                  "17 years.",
+                  "15 years."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "The captain of any aircraft must satisfy himself that the intended flight can be made safely. In order to achieve this, it is an operational requirement that all gliding clubs provide what facilities?",
+                "options": [
+                  "Navigational information concerning temporary hazards and permanent changes.",
+                  "A telephone link to the nearest ATC unit to inform them of the day's operation.",
+                  "Meteorological forecasts for the use of club members.",
+                  "Briefings for all cross country flights."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Certain areas of class 'B' airspace have been annotated as 'Gliding areas'. The controlling Air Traffic agency requires a request to utilise the areas prior to gliders flying in this airspace. What are the time periods required for notification by telephone to the Air Traffic agency?",
+                "options": [
+                  "Two hours before intended use and five minutes prior to entry.",
+                  "Twenty four hours before intended use and two hours prior to launch.",
+                  "Two hours before launch and five minutes prior to entry.",
+                  "Twenty four hours before intended use and two hours prior to entry."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What are the rules for glider flights between FL 245 and FL 660?",
+                "options": [
+                  "There are no restrictions.",
+                  "Only allowed in certain designated areas (windows) with prior permission.",
+                  "No glider flights allowed due to the difficulties in controlling such airspace.",
+                  "Only allowed during the hours of daylight as determined on the ground."
+                ],
+                "answer": 1
               }
           ]
 }
