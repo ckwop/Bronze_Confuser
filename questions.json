@@ -1513,6 +1513,206 @@
         "Due to temperature gradients within the low creating friction between layers"
       ],
       "answer": 1
-    }
+    },
+    {
+        "question": "In May a deep trough is forecast to pass through the local area during the day. What would be the most likely associated weather?",
+        "options": [
+          "Excellent soaring, particularly after the trough has passed.",
+          "Poor soaring due to slowly deteriorating weather.",
+          "Particularly violent weather at the passage of the trough, including strong winds, heavy rain and Cb activity.",
+          "Better soaring during the passage of the trough, but otherwise a poor day."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "In August, a weak ridge is forecast across the country the day after a cold front has passed through. What would be the most likely weather?",
+        "options": [
+          "Poor soaring as the ridge will reduce the instability from the cold front.",
+          "Good soaring as a ridge reduces the instability behind the cold front preventing over convevtion.",
+          "Poor soaring due to over convection.",
+          "Deteriorating soaring conditions due to the lowering inversion."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the area, like a saddle on a mountain ridge, bounded by two high pressure systems and two low pressure systems called?",
+        "options": [
+          "An occlusion.",
+          "A trough.",
+          "A ridge.",
+          "A Col."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is a cause of temperature inversion?",
+        "options": [
+          "Descending air warming due to compression and resting on the cooler airmass beneath.",
+          "Pollution in the lower atmosphere reflecting the suns energy.",
+          "Uneven heating of the atmosphere due to instability.",
+          "Uneven heating of the atmosphere due to stability."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "You are flying from a site in the UK where the ridge faces south west. A depression is forecast to track close to the area over the next few days. Where would the centre of the depression need to be, in relation to the ridge site, for the ridge to work best?",
+        "options": [
+          "Due south.",
+          "North east.",
+          "South west.",
+          "North west."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is a visibility of more than 1000 metres but less than 2000 metres known as?",
+        "options": [
+          "Fog.",
+          "Mist.",
+          "Haze.",
+          "Poor visibility."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "A sea breeze front has been forecast to penetrate inland beyond one of your chosen turning points. Assuming this takes place before you get there, what would be the expected weather conditions as you approach the TP?",
+        "options": [
+          "Improving soaring conditions until the TP has been rounded.",
+          "Deteriorating through the front, but much better round the TP.",
+          "Improved at the front, but weak soaring, if any, around the TP.",
+          "There will be little change to soaring conditions as most fronts of this type are weak."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the approximate rate of change of temperature with height for the dry adiabatic lapse rate?",
+        "options": [
+          "3 degrees Celsius loss per 1000 feet height gain.",
+          "2 degrees Celsius loss per 1000 feet height gain.",
+          "1.5 degrees Celsius loss per 1000 feet height gain.",
+          "1 degree Celsius loss per 1000 feet height gain."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "When an air mass rises it cools at a given rate. Cooler air cannot hold as much water vapour as warmer air and therefore eventually becomes saturated. What is this point called, and what happens there?",
+        "options": [
+          "The saturated lapse point, and cloud vertical development starts here.",
+          "The dew point, and cloud vertical development stops here.",
+          "The saturated lapse point, and cloud vertical development stops here.",
+          "The dew point, and cloud vertical development starts here."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What are the three main stages called in the life cycle of a thunderstorm?",
+        "options": [
+          "The cumulus stage, the mature stage and the dissipating stage.",
+          "The cumulus stage, the mature stage and the precipitation stage.",
+          "The cumulus stage, the precipitation stage and the dissipating stage.",
+          "The precipitation stage, the gust front stage and the dissipating stage."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is meant by the term ‘stable air mass’?",
+        "options": [
+          "The pressure is high, and therefore no thermal activity will be present.",
+          "The environmental lapse rate is less than the dry adiabatic lapse rate.",
+          "The airmass is dry, therefore no thermals or cumulus cloud will form.",
+          "The environmental lapse rate is greater than the dry adiabatic lapse rate."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the name given to the wind effect that increases temperature and raises cloud base in the lee of a hill?",
+        "options": [
+          "The orographic wind effect.",
+          "The foehn wind effect.",
+          "The geostrophic wind effect.",
+          "The lee wave rotor wind effect."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the official definition of fog?",
+        "options": [
+          "Visibility reduced to below 5000 metres.",
+          "Visibility reduced to below 1000 metres.",
+          "Visibility reduced to below 2000 metres.",
+          "Visibility reduced to below 3000 metres."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Icing effects, in particular, aerodynamics. What other effects does icing have on a glider?",
+        "options": [
+          "Pitot tubes & static vents may become blocked.",
+          "Weight is increased which may alter the C of G position.",
+          "Weight is increased which may alter the C of G position and pitot tubes & statics may become blocked.",
+          "Weight is increased which may alter the C of G position, pitot tubes & statics may become blocked and radio communications may be degraded."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "A large depression is centred over the north of Scotland. What will be the wind direction over central & southern England?",
+        "options": [
+          "From the North.",
+          "From the East.",
+          "From the South.",
+          "From the West."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Three conditions are necessary for a thunderstorm to develop. If deep instability is forecast with a high moisture content, what is the third condition required?",
+        "options": [
+          "Light winds and little cloud shadow.",
+          "Light winds aloft so as to allow vertical development of the cumulus.",
+          "An already high cloud base with large cumulus developing.",
+          "A trigger action such as a front forcing the air aloft, a mountain forcing the air aloft or strong heating of the lower air mass."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What is the approximate rate of change of temperature with height for the saturated adiabatic lapse rate?",
+        "options": [
+          "3 degrees Celsius loss per 1000 feet height gain.",
+          "2 degrees Celsius loss per 1000 feet height gain.",
+          "1.5 degrees Celsius loss per 1000 feet height gain.",
+          "1 degree Celsius loss per 1000 feet height gain."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What causes hail to form?",
+        "options": [
+          "Rain freezing as it falls through a cold atmosphere.",
+          "Rain falling through a temperature inversion.",
+          "Water molecules freezing in the up draughts of a Cb, growing with each cycle until too heavy to be sustained by the rising air.",
+          "Ice crystals in the upper cloud falling to the ground before they have time to melt."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Is it possible for thermals to develop under an extensive layer of strato-cumulus?",
+        "options": [
+          "Yes, if there is sufficient instability in the atmosphere.",
+          "No, there will be insufficient energy from the sun reaching the ground.",
+          "No, strato-cumulus normally forms in stable conditions.",
+          "No, even where the layer cloud in broken or thin enough to allow the sun’s energy through, insufficient energy will reach the ground."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is the cause of a sea breeze front?",
+        "options": [
+          "Sea heating more quickly than the land which causes the air to rise over the sea. This in turn leads to advection and the sea breeze.",
+          "Cooler sea air mixing with an offshore breeze creates the frontal system.",
+          "Land heating more quickly than the sea which causes the air to rise overland which in turn leads to advection and the sea breeze.",
+          "Warm air over the sea against cooler land air creates the frontal system."
+        ],
+        "answer": 2
+      }
   ]
 }
