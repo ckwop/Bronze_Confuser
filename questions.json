@@ -557,7 +557,7 @@
             "options": [
                 "Abort landing",
                 "Land immediately",
-                "Continue with intended landing, watch for other traffic and follow suit, make relevant ‘blind calls’ on the radio.",
+                "Continue with intended landing, watch for other traffic and follow suit, make relevant 'blind calls' on the radio.",
                 "Try a different frequency"
             ],
             "answer": 2
@@ -607,7 +607,7 @@
             "options": [
                 "Replace the radio",
                 "Use it carefully",
-                "Get a qualified person to check the radio or clearly mark the radio ‘u/s’.",
+                "Get a qualified person to check the radio or clearly mark the radio 'u/s'.",
                 "Ignore and continue flying"
             ],
             "answer": 2
@@ -676,7 +676,7 @@
             "question": "There are certain vital actions to be taken in the event of a launch failure. Which of the following is the most correct statement?",
             "options": [
                 "Try to restart launch",
-                "Adopt a nose down attitude, regain a safe flying speed, release what is left of the cable and land according to your ‘Eventualities’ brief if possible.",
+                "Adopt a nose down attitude, regain a safe flying speed, release what is left of the cable and land according to your 'Eventualities' brief if possible.",
                 "Continue launching",
                 "Signal ground crew"
             ],
@@ -721,6 +721,206 @@
                 "No significance"
             ],
             "answer": 0
-            }
+            },
+            {
+                "question": "Who is responsible for stopping a launch should anything be going wrong?",
+                "options": [
+                  "The launch point controller.",
+                  "The duty instructor.",
+                  "Anybody.",
+                  "The pilot."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "After Scuba diving, the guide lines are 'do not fly within 12 hours of swimming using compressed air and avoid flying for 24 hours if a depth of 30 feet has been exceeded'. Which risk is being kept to a minimum?",
+                "options": [
+                  "Hyperventilation.",
+                  "Hypoxia.",
+                  "Decompression sickness.",
+                  "Sensory loss."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What is the function of the eustachian tube?",
+                "options": [
+                  "To allow the middle ear to drain freely.",
+                  "To allow the middle ear to equalize with ambient pressure.",
+                  "To allow the inner ear to equalize with ambient pressure.",
+                  "To allow the inner ear to drain freely."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "You are P2, flying mutually with a more experienced pilot who you consider has chosen an incorrect course of action which may endanger the glider. What should your actions be?",
+                "options": [
+                  "Accept this course of action as the other pilot is P1.",
+                  "Question the action of the pilot, only if you think the handling pilot will listen.",
+                  "Take control from the handling pilot and rectify the situation.",
+                  "Always express any doubts that you may have."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "On a cross country flight in August you are faced with an out landing. Assuming no obstructions and fields of adequate size, which of the following would be the correct choice?",
+                "options": [
+                  "A field with cows in one corner.",
+                  "A field of standing corn.",
+                  "A field with sheep in one corner.",
+                  "A stubble field that has a border ploughed around it."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "In which direction should all turns be made when hill soaring?",
+                "options": [
+                  "Away from the hill.",
+                  "Left.",
+                  "Right.",
+                  "Same as the glider in front."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are about to land out. Which of the following is the best option, when the only suitable field has a slope in it, and the wind is up the slope?",
+                "options": [
+                  "Land down hill, into wind.",
+                  "Land across the slope, and cross wind.",
+                  "Land up hill, down wind.",
+                  "Land diagonally down slope to give the longest ground run with an into wind component."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "You are on aerotow when you notice the rudder of the tug waggling from side to side. What should your actions be?",
+                "options": [
+                  "Check air brakes are closed and jettison tail chute if it has deployed.",
+                  "Check air brakes are closed.",
+                  "Release immediately.",
+                  "Fly out to the left and rock your wings in reply."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are faced with a field landing. You know the 4000' wind is 240 degrees, 20 kts. What is the surface wind most likely to be?",
+                "options": [
+                  "240 degrees, 10 kts.",
+                  "Greater than 240 degrees, less than 20 kts.",
+                  "Less than 240 degrees, greater than 20 kts.",
+                  "Less than 240 degrees, less than 20 kts."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "Which of the following is most correct when entering a turn?",
+                "options": [
+                  "Lookout first then turn.",
+                  "Lookout, look over the nose, then turn.",
+                  "Ensure it is clear in the direction of the turn, then turn.",
+                  "Start the turn, then lookout in the same direction."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What actions should be taken when flying through an area of sink?",
+                "options": [
+                  "Slow down so as to reduce the rate of descent.",
+                  "Increase speed so as to spend as little time in the sink as possible.",
+                  "Continue as normal because the lift on the other side of the sink will compensate for the height loss.",
+                  "Slow down and turn away from the sink."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What is the approximate time required to eliminate 1 unit of alcohol from the blood?",
+                "options": [
+                  "30 minutes.",
+                  "60 minutes.",
+                  "90 minutes.",
+                  "120 minutes."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "When keeping a good lookout, how is the most effective scanning achieved?",
+                "options": [
+                  "A series of short, regularly spaced eye movements, progressing across the field of view.",
+                  "Rapidly and smoothly sweeping the entire field of view.",
+                  "A random scan of the most likely areas of conflicting traffic.",
+                  "Alternating between three or four different areas."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "During a solo flight you notice the handling appears to be different from the last time you flew it. What action, if any, should you take after landing?",
+                "options": [
+                  "None.",
+                  "Check the log book to see if any ballast weight has been added or removed.",
+                  "Bring it to the attention of the duty instructor before it flies again.",
+                  "Let the next person to fly the glider know of the problem."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "While flying in cloud you notice the ASI reading slowly reduces to zero. What is the most likely cause?",
+                "options": [
+                  "You are fully stalled.",
+                  "There is ice in the static system.",
+                  "There is water in the pitot system.",
+                  "There is ice in the pitot system."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are down wind to land at your home site when you are overtaken by a higher performance glider with only one airbrake extended. Who has right of way?",
+                "options": [
+                  "The other glider, as there is an emergency.",
+                  "You have right of way as the lower performing glider.",
+                  "The other glider, due to its faster circuit speed.",
+                  "You have right of way, even though there is an emergency in progress."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are half way up the winch launch when the speed increases above max winch launch. What should be your immediate actions?",
+                "options": [
+                  "Lower the nose slightly and give the too fast signal. If, after a few seconds, you are still too fast, then abandon the launch.",
+                  "Pull back so as to load the winch and reduce the speed.",
+                  "Release immediately.",
+                  "Maintain the climbing attitude and wave off."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are soaring in a moderate westerly wind, a ridge which runs north west to south east when orographic cloud forms all around. Which compass heading and speed should you fly?",
+                "options": [
+                  "180 degrees at best L/D.",
+                  "270 degrees at min sink.",
+                  "245 degrees at min sink.",
+                  "245 degrees at best L/D."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are about to join a thermal with two gliders circling in opposite directions. Which way do you turn?",
+                "options": [
+                  "Same direction as the higher glider.",
+                  "Same direction as the lower glider.",
+                  "Either direction as the thermal would seem to be a free for all.",
+                  "Same direction as the closer glider."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are about to land as there is thunder storm activity from a Cb close by. What should you particularly be aware of?",
+                "options": [
+                  "Lightning flashes which may blind temporarily.",
+                  "Rapid changes in wind strength and direction.",
+                  "Reducing visibility due to low cloud base.",
+                  "Reduction in performance due to wet wings."
+                ],
+                "answer": 1
+              }
     ]
 }
