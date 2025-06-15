@@ -1913,6 +1913,106 @@
         "Fast moving cold fronts over the sea."
         ],
         "answer": 0
-    }
+    },
+    {
+        "question": "What is a squall line usually associated with?",
+        "options": [
+          "A fast moving warm front.",
+          "An occluded front.",
+          "A fast moving cold front.",
+          "A stationary front."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is an Isobar?",
+        "options": [
+          "A line drawn on a synoptic chart joining points of equal height above mean sea level.",
+          "A line drawn on a synoptic chart joining points of equal pressure at mean sea level.",
+          "A line drawn on a synoptic chart joining points of equal pressure at 1013.2 Mb.",
+          "A line drawn on a synoptic chart joining points of equal temperature corrected to a standard atmosphere."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What would be a typical characteristic of a Tropical Continental airmass in winter?",
+        "options": [
+          "Warm and fairly dry.",
+          "Warm and moist with low cloud, rain/drizzle.",
+          "Cool and moist perhaps with hail and thunder.",
+          "Very cold and dry."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is a surface visibility of less than 1000 metres classed as?",
+        "options": [
+          "Fog.",
+          "Haze.",
+          "Mist.",
+          "VMC."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which condition is most likely to affect gliding within a stable air mass?",
+        "options": [
+          "Good visibility at the surface, poor at height.",
+          "Moderate turbulence at low level with good visibility.",
+          "Smoke, haze and dust concentrated in lower levels resulting in poor visibility.",
+          "Steady drizzle with very poor visibility."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What is the name given to the ratio of existing water vapour in the air, as compared to the maximum amount that could exist at a given temperature?",
+        "options": [
+          "The condensation level.",
+          "The saturation level.",
+          "The relative humidity.",
+          "The dew point."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What causes the wind to increase and veer with increase in height?",
+        "options": [
+          "Geostationary forces and decreasing air pressure.",
+          "Geostrophic forces and surface friction.",
+          "Geostrophic forces and increasing air pressure.",
+          "Geostationary forces and surface tension."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is the correct name given to a weather map?",
+        "options": [
+          "Isobar Chart.",
+          "Ordinance Chart.",
+          "Synoptic Chart.",
+          "Astro Chart."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What name is given to an airmass that originated from Greenland?",
+        "options": [
+          "Polar Continental.",
+          "Tropical Maritime.",
+          "Tropical Continental.",
+          "Polar Maritime."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "What name is given to an airmass that originated from Africa?",
+        "options": [
+          "Polar Continental.",
+          "Polar Maritime.",
+          "Tropical Maritime.",
+          "Tropical Continental."
+        ],
+        "answer": 3
+      }
   ]
 }
