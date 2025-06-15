@@ -1121,6 +1121,226 @@
                   "Keep trying on the radio until you get a reply"
                 ],
                 "answer": 2
+              },
+              {
+                "question": "What are the correct actions when a glider on your left is converging on your flight path?",
+                "options": [
+                  "Although you have right of way, take avoiding action early if necessary.",
+                  "No action required as you have right of way.",
+                  "Take avoiding action, as the other glider has right of way.",
+                  "Increase speed so as to out glide the other aircraft."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are final gliding to your home airfield when you realise that you are unsure of reaching the airfield. What is the best course of action?",
+                "options": [
+                  "Continue as planned as you will be able to dolphin the last bit home.",
+                  "Choose a field and land.",
+                  "Change course and fly towards the nearest thermal.",
+                  "Continue towards the airfield, but only if there is an alternative landing area available between you and the airfield."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are in the process of winch launching when there is a delay at the winch. Your canopy has begun to mist up but you have the cable attached. What is the best course of action?",
+                "options": [
+                  "Continue, as the canopy will clear on the launch.",
+                  "Release the cable and clear the canopy before launching, a launch failure could be disastrous with poor visibility.",
+                  "Continue, making use of the DV panel as required.",
+                  "Open the DV panel and all vents in order to clear the canopy once the launch begins."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Having consumed a small amount of alcohol, how long should you wait before flying?",
+                "options": [
+                  "4 Hrs.",
+                  "6 Hrs.",
+                  "8 Hrs.",
+                  "10 Hrs."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "You are on medication, the effects of which you are unsure. What is the correct thing to do?",
+                "options": [
+                  "Continue to fly.",
+                  "Do not take the medication whilst airborne.",
+                  "Wait a while after taking the medication to see if there is any reason not to fly.",
+                  "Do not fly. If in doubt seek medical advice."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "Who is responsible for stopping a launch?",
+                "options": [
+                  "The duty instructor.",
+                  "Anybody.",
+                  "The pilot.",
+                  "The wing tip holder."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "A Glider overtaking another in the UK shall follow which rule?",
+                "options": [
+                  "Always overtake from above.",
+                  "Overtake on either side.",
+                  "Always overtake on the right.",
+                  "Always overtake on the left."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Which of the following is correct when 2 aircraft are on a converging course?",
+                "options": [
+                  "The aircraft which has the other on its right has the right of way.",
+                  "The aircraft at the lower altitude has the right of way.",
+                  "The aircraft which has the other on its right shall give way.",
+                  "The slower aircraft must give way."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What does hyperventilation lead to?",
+                "options": [
+                  "A shortage of oxygen.",
+                  "Blackouts.",
+                  "Greyouts.",
+                  "An excess of oxygen."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What effects will cigarette smoking have on a pilot?",
+                "options": [
+                  "It will reduce the amount of oxygen in the blood.",
+                  "It will increase the amount of oxygen in the blood.",
+                  "It will increase the pilots decision time.",
+                  "It will increase the pilots awareness."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "What name is given when the body is suffering from low temperatures?",
+                "options": [
+                  "Hypoxia.",
+                  "Hypothermia.",
+                  "Hypoglycaemic.",
+                  "Anoxia."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "What happens to the amount of oxygen that diffuses across the lung membranes when at high altitudes?",
+                "options": [
+                  "It remains the same.",
+                  "It increases.",
+                  "It reduces due to temperature reductions.",
+                  "It reduces due to pressure reductions."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What happens to the percentage content of oxygen in the air as altitude increases?",
+                "options": [
+                  "It decreases due to decrease in temperature.",
+                  "It increases.",
+                  "It remains the same.",
+                  "It decreases due to decrease in pressure."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "The respiratory process is governed by chemical receptors in the brain which monitor the levels of oxygen and carbon dioxide. Which of the following is the most accurate statement with respect to a healthy body?",
+                "options": [
+                  "The body is more sensitive to changes in oxygen than carbon dioxide.",
+                  "The body is more sensitive to changes in carbon dioxide than oxygen.",
+                  "The body is more sensitive to changes in the gas registering the least amount.",
+                  "The body is more sensitive to changes in the gas registering the largest amount."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Which of the following list of signs and symptoms are associated with hypoxia? 1. Personality changes. 2. Impaired judgement. 3. Muscular impairment. 4. Memory impairment. 5. Sensory loss. 6. Impairment of consciousness.",
+                "options": [
+                  "Items 1 and 2 only.",
+                  "Items 1 to 3 only.",
+                  "Items 1 to 4 only.",
+                  "All of the above items."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "Which of the following should be carried out before washing a glider?",
+                "options": [
+                  "Ensure that the airbrakes are locked in.",
+                  "Ensure that the control column is restrained by the harness.",
+                  "Ensure that the wheelbrake is on.",
+                  "Ensure that the aircraft is serviceable."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Which 2 conditions are particularly detrimental to GRP structure?",
+                "options": [
+                  "Polar Continental and polar maritime air masses.",
+                  "Rain and strong winds.",
+                  "Moisture and solar radiation.",
+                  "Low humidity and light winds."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "Why should care be taken when using a hose to rinse down a glider after washing?",
+                "options": [
+                  "Because there is a water shortage.",
+                  "To ensure that water is not forced into orifices.",
+                  "To minimise soap dilution.",
+                  "To ensure personnel don’t get wet."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "In a motor glider, which type of poisoning may result due to a faulty exhaust system?",
+                "options": [
+                  "Carbon monoxide.",
+                  "Carbon dioxide.",
+                  "Hypoxia.",
+                  "Blood."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "What problems exist, if any, detecting carbon monoxide in the cockpit of a motor glider?",
+                "options": [
+                  "It is easily recognisable because of its peculiar odour.",
+                  "It is easily recognisable because of its peculiar colour.",
+                  "It is difficult to recognise because it is odourless and colourless.",
+                  "It is impossible to detect."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What happens to the amount of oxygen available as altitude increases?",
+                "options": [
+                  "Decreases due to decrease in air density.",
+                  "Remains the same.",
+                  "Increases due to increase in density.",
+                  "Becomes diluted."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Lack of oxygen may cause a particularly dramatic effect in a pilot. What is this known as?",
+                "options": [
+                  "Anoxia.",
+                  "Hypoxia.",
+                  "Suffocation.",
+                  "Hyperventilation."
+                ],
+                "answer": 1
               }
     ]
 }
