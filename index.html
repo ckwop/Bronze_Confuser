@@ -29,10 +29,10 @@
     <button id="StartQuiz" onclick="startQuiz()">Start Quiz</button>
   </div>
 
+  <div id="result"></div>
   <form id="quizForm" style="display:none;"></form>
 
-  <div id="result"></div>
-
+  
   <script>
     let questionsData = {}
     async function init() {
@@ -139,6 +139,12 @@
       });
 
       result.innerHTML = `<h2>You scored ${score} out of ${selectedQuestions.length}</h2>`;
+
+      const submitBtn = document.createElement('button');
+      submitBtn.type = 'button';
+      submitBtn.textContent = 'Try again';
+      submitBtn.onclick = () => { location.reload() };
+      form.appendChild(submitBtn);
     }
 
     init();
