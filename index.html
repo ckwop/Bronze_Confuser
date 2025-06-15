@@ -107,6 +107,7 @@
 
       const submitBtn = document.createElement('button');
       submitBtn.type = 'button';
+      submitBtn.id = "Submit"
       submitBtn.textContent = 'Submit';
       submitBtn.onclick = evaluateQuiz;
       form.appendChild(submitBtn);
@@ -140,11 +141,14 @@
 
       result.innerHTML = `<h2>You scored ${score} out of ${selectedQuestions.length}</h2>`;
 
-      const submitBtn = document.createElement('button');
-      submitBtn.type = 'button';
-      submitBtn.textContent = 'Try again';
-      submitBtn.onclick = () => { location.reload() };
-      form.appendChild(submitBtn);
+      const submitBtn = document.getElementById("submitBtn");
+      submitBtn.remove();
+
+      const startAgainBtn = document.createElement('button');
+      startAgainBtn.type = 'button';
+      startAgainBtn.textContent = 'Start again';
+      startAgainBtn.onclick = () => { location.reload() };
+      form.appendChild(startAgainBtn);
     }
 
     init();
