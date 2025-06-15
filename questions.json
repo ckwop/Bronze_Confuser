@@ -1,0 +1,10 @@
+{
+    "Air Law": [
+      { "question": "What is the minimum safe altitude over a congested area?", "options": ["500 feet", "1000 feet", "2000 feet", "2500 feet"], "answer": 1 },
+      { "question": "When must a pilot file a flight plan?", "options": ["Always", "For IFR flights", "Only international flights", "Never"], "answer": 1 }
+    ],
+    "Meteorology": [
+      { "question": "What type of cloud is associated with thunderstorms?", "options": ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"], "answer": 2 },
+      { "question": "What does a METAR report?", "options": ["Forecast", "Current weather", "Cloud height only", "Runway conditions"], "answer": 1 }
+    ]
+}

@@ -34,33 +34,35 @@
   <div id="result"></div>
 
   <script>
-    const questionsData = {
-      "Air Law": [
-        { question: "What is the minimum safe altitude over a congested area?", options: ["500 feet", "1000 feet", "2000 feet", "2500 feet"], answer: 1 },
-        { question: "When must a pilot file a flight plan?", options: ["Always", "For IFR flights", "Only international flights", "Never"], answer: 1 },
-      ],
-      "Meteorology": [
-        { question: "What type of cloud is associated with thunderstorms?", options: ["Cirrus", "Stratus", "Cumulonimbus", "Altocumulus"], answer: 2 },
-        { question: "What does a METAR report?", options: ["Forecast", "Current weather", "Cloud height only", "Runway conditions"], answer: 1 },
-      ]
-    };
-
-    const sectionSelector = document.getElementById("sectionSelector");
-    Object.keys(questionsData).forEach(section => {
-      const label = document.createElement("label");
-      label.innerHTML = `<input type="checkbox" value="${section}" checked> ${section}`;
-      sectionSelector.appendChild(label);
-      sectionSelector.appendChild(document.createElement("br"));
-    });
+    let questionsData = {}
+    async function init() {
+      questionsData = await loadQuestions("questions.json");
+      const sectionSelector = document.getElementById("sectionSelector");
+      Object.keys(questionsData).forEach(section => {
+        const label = document.createElement("label");
+        label.innerHTML = `<input type="checkbox" value="${section}" checked> ${section}`;
+        sectionSelector.appendChild(label);
+        sectionSelector.appendChild(document.createElement("br"));
+      });
+    }
 
     function getRandomQuestions(array, count) {
       const shuffled = array.slice().sort(() => 0.5 - Math.random());
       return shuffled.slice(0, count);
     }
 
+    async function loadQuestions(url) {
+    return fetch(url)
+      .then(response => {
+        if (!response.ok) throw new Error("Failed to load JSON");
+        return response.json();
+      });
+    }
+   
     let selectedQuestions = [];
 
-    function startQuiz() {
+    async function startQuiz() {
+      
       const num = parseInt(document.getElementById('numQuestions').value) || 2;
       selectedQuestions = [];
 
@@ -138,6 +140,8 @@
 
       result.innerHTML = `<h2>You scored ${score} out of ${selectedQuestions.length}</h2>`;
     }
+
+    init();
   </script>
 
 </body>
