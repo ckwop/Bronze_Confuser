@@ -921,6 +921,206 @@
                   "Reduction in performance due to wet wings."
                 ],
                 "answer": 1
+              },
+              {
+                "question": "While hill soaring with the hill on your left, you meet a higher performance glider coming the other way. Who has right of way and what actions should you take?",
+                "options": [
+                  "The other glider has right of way and you should turn right.",
+                  "You have right of way being the lower performing glider but should be prepared to give way.",
+                  "You have right of way but the rules of the ridge dictate that you should give way.",
+                  "Neither has right of way and both should turn right."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "Whilst in a straight glide you notice another glider on your right at about the same height. The bearing relative to you is remaining constant and the separation is reducing. What actions should you take?",
+                "options": [
+                  "None, as you have right of way.",
+                  "Take avoiding action as the other glider has right of way.",
+                  "Wait to see what develops but be prepared to take avoiding action.",
+                  "Increase speed to try and out glide the other glider."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "A pilot is faced with a field landing into a slightly down sloping field. What is most likely to happen?",
+                "options": [
+                  "A shallower approach than intended will be flown.",
+                  "A normal approach will be flown, as intended.",
+                  "A steeper approach than normal will be flown.",
+                  "An under shoot will be flown."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "What is the main cause of motion sickness?",
+                "options": [
+                  "Direct effect of movement on the stomach.",
+                  "The mismatch between visual and vestibular sensory inputs.",
+                  "Changes in blood pressure produced by motion.",
+                  "Long periods of 'head inside the cockpit'."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "After an aerobatic session in a semi-aerobatic glider, the accelerometer reads +4g and -2.5g. What action do you need to take, if any?",
+                "options": [
+                  "None, as the limit loads have not been exceeded.",
+                  "Inform the duty instructor before it flies again, as the placard limits have been exceeded.",
+                  "Make an entry in the DI book to record the applied loads.",
+                  "Inform the CFI at the end of the day."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "On returning to your home airfield after a long flight, the duty instructor alerts you on the radio, of a strong wind gradient. What should you do?",
+                "options": [
+                  "Watch for heavy sink on the approach.",
+                  "Increase airspeed well above the normal and be prepared for a rapid reduction in airspeed close to the ground.",
+                  "Be prepared to use less airbrake on the later part of the approach.",
+                  "All of the above."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "You are climbing in good wave lift, but your glider is not equipped with oxygen. At what height is it recommended you should abandon your climb?",
+                "options": [
+                  "12,000 feet.",
+                  "10,000 feet.",
+                  "8,000 feet.",
+                  "17,000 feet."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "While on a cross country, you are continually correcting your heading to the right in order to reach your goal. What might this signify?",
+                "options": [
+                  "The wind is from the right of track.",
+                  "The wind is from the left of track.",
+                  "There is probably a magnetic anomaly affecting the compass.",
+                  "Magnetic variation is particularly strong at this time."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "What disadvantages, if any, would there be in getting too close to cloud base?",
+                "options": [
+                  "You may lose sight of your next thermal.",
+                  "You may inadvertently enter cloud and exit in the wrong direction.",
+                  "You may inadvertently enter cloud and ice up sufficiently enough to lose out on performance, making the extra height gain worthless.",
+                  "All of the above."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "How would you check your chosen field for slope?",
+                "options": [
+                  "Look for a lack of crop.",
+                  "Look for sheep where cattle would normally be.",
+                  "Check the map for contours.",
+                  "Fly around the field checking visually for slope."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What are the stall recovery actions?",
+                "options": [
+                  "Stick forward, regain flying speed, level the wings (if necessary) and return to the normal gliding attitude.",
+                  "Regain flying speed and return to the normal gliding attitude.",
+                  "Stick forward, wings level, regain flying speed and return to the normal gliding attitude.",
+                  "Stick forward, regain flying speed and return to the normal gliding attitude."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "What is the correct mnemonic for the glider pre manoeuvre checks?",
+                "options": [
+                  "HASL ( height, area, security and lookout.)",
+                  "HASSL ( height, airframe, security, straps and lookout.)",
+                  "HASSLL ( height, airframe, straps, security, location and lookout.)",
+                  "HASELL ( height, airframe, security, engine, location and lookout.)"
+                ],
+                "answer": 2
+              },
+              {
+                "question": "When carrying out the pre manoeuvre checks, what does the airframe part of the check call for?",
+                "options": [
+                  "Ensure that the airframe is cleared for the manoeuvres to be flown.",
+                  "It acts as a reminder of the 'g' limits.",
+                  "A check of placarded limiting speeds and loads and that the glider is cleared for the manoeuvres and that the correct configuration is used, i.e. flap settings etc.",
+                  "A check of the limiting speeds such as Vne and Max Manoeuvre."
+                ],
+                "answer": 2
+              },
+              {
+                "question": "Why is it important to judge height without reference to an altimeter when flying a circuit?",
+                "options": [
+                  "Altimeter errors and pressure changes render the altimeter inaccurate and unreliable.",
+                  "So as to be able to land safely, should the altimeter fail.",
+                  "It is a requirement for the Bronze C flying check.",
+                  "You may have forgotten to return the subscale to the correct setting."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "When should a positive control check be carried out?",
+                "options": [
+                  "Before each flight.",
+                  "Only after rigging the glider.",
+                  "Before each days flying commences.",
+                  "Before each days flying and immediately after rigging the glider."
+                ],
+                "answer": 3
+              },
+              {
+                "question": "What effect would 50 foot trees on the down wind boundary of your chosen field have on your landing run, assuming you would normally touch down just inside the field perimeter?",
+                "options": [
+                  "There will be no effect what so ever.",
+                  "They will move the touch down point 500 feet further up the field.",
+                  "They will move the touch down point 50 feet further up the field.",
+                  "They will cause a wind shadow in the first 500 feet of the field."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "A tobacco smoker, compared to a non-smoker, is subjected to altitudes at which the onset of hypoxia is likely. What will probably be the experience of the smoker?",
+                "options": [
+                  "Initial symptoms will be experienced at a lower cabin altitude.",
+                  "Initial symptoms will be experienced at a higher cabin altitude.",
+                  "Initial symptoms will be experienced at the same cabin altitude.",
+                  "Initial symptoms will be experienced at the same cabin altitude, but worse."
+                ],
+                "answer": 0
+              },
+              {
+                "question": "You are suffering from a common cold. What is the most likely event whilst flying?",
+                "options": [
+                  "The reduced pressure whilst flying will ease any discomfort caused by the infection.",
+                  "Changes in pressure are likely to cause discomfort.",
+                  "There should be no effects whilst flying.",
+                  "You may feel a little dizzy but may ignore the symptoms and continue to fly."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "Is it important to read NOTAMs before flying cross country?",
+                "options": [
+                  "No, if there is any problems, the duty instructor will point them out.",
+                  "Yes, it is the pilots responsibility to familiarise themselves with notices.",
+                  "No, they only apply to royal flights and the Red Arrows.",
+                  "Yes, but only when planning to fly through controlled airspace."
+                ],
+                "answer": 1
+              },
+              {
+                "question": "You are final gliding back to your home airfield and wish to fly a competition type finish. You call on the radio for permission but get no reply, what should be your actions?",
+                "options": [
+                  "Continue as planned, flying must have stopped.",
+                  "Continue as planned, but keep a lookout for other gliders.",
+                  "Change to a more conservative type finish followed by a normal circuit.",
+                  "Keep trying on the radio until you get a reply"
+                ],
+                "answer": 2
               }
     ]
 }
