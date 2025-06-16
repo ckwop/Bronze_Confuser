@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🥉 Bronze Confuser (Web Edition)</title>
+  <title>Bronze Confuser (Web Edition)</title>
   <style>
     body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: auto; }
     .question { margin-bottom: 20px; }
@@ -34,8 +34,10 @@
 
   
   <script>
+    
     let questionsData = {}
     async function init() {
+      setFavIcon();
       questionsData = await loadQuestions("questions.json");
       const sectionSelector = document.getElementById("sectionSelector");
       Object.keys(questionsData).forEach(section => {
@@ -44,6 +46,10 @@
         sectionSelector.appendChild(label);
         sectionSelector.appendChild(document.createElement("br"));
       });
+    }
+
+    function setFavIcon() {
+      document.head.appendChild(Object.assign(document.createElement("link"), {rel: "icon", href: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥉</text></svg>"}))
     }
 
     function getRandomQuestions(array, count) {
